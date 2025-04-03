@@ -1,5 +1,5 @@
-<template>
-  <section class="relative w-full min-h-screen bg-gray-900 text-white" data-aos="zoom-in-up" id="student">
+<template> 
+  <section class="relative w-full min-h-screen bg-gray-900 text-white" id="student">
     <div class="absolute top-0 inset-x-0 h-64 flex items-start">
       <div class="h-24 w-2/3 bg-gradient-to-br from-[#570cac] blur-2xl opacity-40"></div>
       <div class="h-20 w-3/5 bg-gradient-to-r from-[#670ccf] opacity-40 blur-2xl"></div>
@@ -63,10 +63,6 @@
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-
-AOS.init();
 
 const student = ref(null);
 const editMode = ref(false);

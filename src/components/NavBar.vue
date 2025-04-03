@@ -37,8 +37,8 @@
 <script setup>
 import { ref } from 'vue';
 const Menu =ref([
-    {name:'STUDENT',href:'#student'},
-    {name:'SUNJECT',href:'#subject'},
+    {name:'Student',href:'#student'},
+    {name:'Subject',href:'#subject'},
 ]);
 
 const isMenuOpen =ref(false)
