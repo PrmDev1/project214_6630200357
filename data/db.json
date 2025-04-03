@@ -1,0 +1,59 @@
+{
+  "student": {
+    "fullname": "นายปรเมศวร์ วังกลาง",
+    "id": "6630200357",
+    "major_id": "S05",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "old_school": "วัดป่าประดู่"
+  },
+  "subjects": [
+    {
+      "id": "01418214",
+      "name": "Practicum in Software Development",
+      "credit": "1",
+      "grade": "A"
+    },
+    {
+      "id": "01418221",
+      "name": "Fundamentals of Database Systems",
+      "credit": "3",
+      "grade": "B+"
+    },
+    {
+      "id": "01418261",
+      "name": "Fundamentals of Artificial Intelligence",
+      "credit": "3",
+      "grade": "B"
+    },
+    {
+      "id": "01418236",
+      "name": "Operating Systems",
+      "credit": "3",
+      "grade": "B+"
+    },
+    {
+      "id": "01355102",
+      "name": "English for Job Opportunities",
+      "credit": "3",
+      "grade": "B+"
+    },
+    {
+      "id": "01418232",
+      "name": "Algorithm Design and Analysis",
+      "credit": "3",
+      "grade": "A"
+    },
+    {
+      "id": "01418222",
+      "name": "Enterprise Information System",
+      "credit": "3",
+      "grade": "A"
+    },
+    {
+      "id": "0375211",
+      "name": "Information Resources for Research",
+      "credit": "1",
+      "grade": "A"
+    }
+  ]
+}
